@@ -26,7 +26,11 @@
 * Open strandtest example from the custom libraries and upload
 
 ## 4. Install
-* tweak software and repeat...
+* Plug in power supply
+* Tweak software and repeat...
 
-
+## 5. To do
+* Add audio
+* Add choreography orchestration
+* Install outside
 
