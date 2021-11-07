@@ -6,10 +6,12 @@
 * Raspberry Pi and equipment
 * Wires, 470 ohm resistor, 1000 uF Capacitor, and heat shrink
 
-[strand]:  https://www.amazon.com/gp/product/B014QZNC1S/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
-[power]:  https://www.amazon.com/gp/product/B01LXN7MN3/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
-[nano]:  https://www.amazon.com/gp/product/B0713XK923/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
-[ada]:  https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
+[strand]:   https://www.amazon.com/gp/product/B014QZNC1S/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+[power]:    https://www.amazon.com/gp/product/B01LXN7MN3/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+[nano]:     https://www.amazon.com/gp/product/B0713XK923/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
+[ada]:      https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
+[library]:  https://github.com/adafruit/Adafruit_NeoPixel/blob/master/README.md
+[arduino]:  https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
 
 ## 2. Hardware Setup
 * [Assemble power filter and connect to arduino][ada]
@@ -21,8 +23,8 @@
 
 ## 3. Software Setup
 * Setup the Pi to connect remotely
-* Install arduino IDE
-* Add Adafruit NeoPixel Library
+* [Install arduino IDE][arduino]
+* [Add Adafruit NeoPixel Library][library]
 * Open strandtest example from the custom libraries and upload
 
 ## 4. Install
