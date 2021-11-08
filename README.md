@@ -12,6 +12,7 @@
 [ada]:      https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
 [library]:  https://github.com/adafruit/Adafruit_NeoPixel/blob/master/README.md
 [arduino]:  https://downloads.arduino.cc/arduino-1.8.16-linuxarm.tar.xz
+[aiy]:      https://aiyprojects.withgoogle.com/voice-v1/#assembly-guide--get-the-voice-kit-system-image
 
 ## 2. Hardware Setup
 * [Assemble power filter and connect to arduino][ada]
@@ -32,7 +33,8 @@
 * Tweak software and repeat...
 
 ## 5. To do
-* Add audio
+* Add [audio commands][aiy]
+* Play music
 * Add choreography orchestration
 * Install outside
 
