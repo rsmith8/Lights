@@ -17,8 +17,9 @@
 ## 2. Hardware Setup
 * [Assemble power filter and connect to arduino][ada]
 ![PXL_20211106_170610332](https://user-images.githubusercontent.com/4064492/140619313-5f5bcc7c-cb24-4e38-aea7-a4d8cb5275af.jpg)
-* Attach filter and contoll to lights being carefull to align polarity
-![PXL_20211106_170553406](https://user-images.githubusercontent.com/4064492/140619410-cb33d329-4d0f-4f5e-8866-9e0698174828.jpg)
+* Attach filter and contoll to lights to align polarity use plug/wire extensions
+![PXL_20211107_191105441](https://user-images.githubusercontent.com/4064492/141661991-2b9c6603-b902-47b1-9c02-635b52980505.jpg)
+
 * Connect wires to the power supply screw terminals making sure to align the polarity 
 * Connect nano via USB to the Pi
 
